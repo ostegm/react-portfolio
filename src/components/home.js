@@ -5,7 +5,7 @@ import './home.css';
 export function Home() {
   return (
     <div className="home-page">
-      <h1>Hi! you're on the home page!</h1>
+      <h1>Hi! I'm Otto, this is my portfolio.</h1>
     </div>
   );
 }
