@@ -1,16 +1,13 @@
-.home-page {
-    align-self: center;
-    text-align: center;
-    width: 100%;
-    padding: 74px 10px 10px 10px;
+.home {
+  padding: 150px 0px;
 }
 
-.home-page input {
-    margin: 1em auto 0 auto;
+hr {
+  margin: 20px 0;
 }
 
-.home-page > h1 {
-  font-size: 24px;
+@media only screen and (max-width: 600px) {
+  .home {
+    padding: 100px 0px;
+  }
 }
-
-
