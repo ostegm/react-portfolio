@@ -10,8 +10,8 @@ export default function Home() {
       <h5>Be grateful for and nuture your curiousity.</h5>
       <span>
       I'm a data scientist living in San Francisco learning to do full
-      stack web development. In my day job I use machine learning to help
-      improve how teams operate. In a previous live I served as a Infantry
+      stack web development. In my day job, I use machine learning to help
+      improve how teams operate. In a previous life, I served as a Infantry
       Officer in the Marines. Outside of work I love to surf, ski, kitesurf
       and learn new skills. Check out some of my projects below.
       </span>
